@@ -20,7 +20,7 @@ function preload(){
   wizard = loadImage('images/Wizard.png');
   archer = loadImage('images/Archer.png');
   zombie =  loadImage('images/zombie.png');
-  bombZombie = loadImage('images/bzombie.png');
+  bombZombie = loadImage('images/bZombie.png');
   bat = loadImage('images/bat.png');
   fireball = loadImage('images/fireball.png');
   knife = loadImage('images/throwing-sword.png');
